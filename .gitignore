@@ -1,0 +1,8 @@
+node_modules
+.next
+.contentlayer
+out
+.env
+.env.local
+.DS_Store
+*.log
