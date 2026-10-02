@@ -34,6 +34,7 @@ const columns = [
     links: [
       { href: "/about", label: "About" },
       { href: "/privacy", label: "Privacy" },
+      { href: "/delete-account", label: "Delete account" },
       { href: "/ai-limitations", label: "AI limitations" },
       { href: "/crisis-resources", label: "Crisis resources" },
     ],
