@@ -74,7 +74,7 @@ export default function DeleteAccountPage() {
         <h2>Questions?</h2>
         <p>
           If you have questions about account deletion or data privacy, contact us at{" "}
-          <a href="mailto:privacy@hopementalhealthsupport.xyz">privacy@hopementalhealthsupport.xyz</a>
+          <a href="mailto:support@hopementalhealthsupport.xyz">support@hopementalhealthsupport.xyz</a>
         </p>
       </div>
     </article>

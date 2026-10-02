@@ -64,7 +64,7 @@ export default function PrivacyPage() {
 
         <h2>Questions</h2>
         <p>
-          Reach out to <a href="mailto:privacy@hopementalhealthsupport.xyz">privacy@hopementalhealthsupport.xyz</a>{" "}
+          Reach out to <a href="mailto:support@hopementalhealthsupport.xyz">support@hopementalhealthsupport.xyz</a>{" "}
           with any privacy questions or data requests.
         </p>
       </div>
